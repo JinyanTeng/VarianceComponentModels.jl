@@ -1,5 +1,5 @@
 name = "VarianceComponentModels"
-uuid = "813005db-34b4-5f71-be9e-1bbf0a1d8f1c"
+uuid = "dd23c786-c23f-11f0-905c-2bc02223a01e"
 keywords = ["variance components model", "GWAS"]
 author = ["Hua Zhou <huazhou@ucla.edu>", "OpenMendel Team"]
 version = "0.1.3"
